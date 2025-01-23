@@ -14,3 +14,12 @@ def run_organizer():
 
 if __name__ == "__main__":
     run_organizer()
+
+
+# git init
+# git remote add origin ...
+# git branch -M main
+# git add ...
+# git commit -m "Message"
+# git push --set-upstream origin master # first commit
+# git push                              # otherwise
